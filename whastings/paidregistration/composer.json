@@ -5,7 +5,7 @@
 	"homepage": "",
 	"version": "0.1.0",
 	"time": "2017-20-6",
-	"keywords": {"phpbb", "extension", "whastings", "paidregistration", "paypal"},
+	"keywords": ["phpbb", "extension", "whastings", "paidregistration", "paypal"],
 	"license": "GPL-2.0",
 	"authors": [
 		{
@@ -26,4 +26,4 @@
 		}
 	}
 
-}`
+}
